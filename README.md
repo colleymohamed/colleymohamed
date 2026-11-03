@@ -2,14 +2,9 @@ Hey 👋 I'm Mohamed
 
 I'm currently:
 
-- a recent graduate
-- building
-
-I have previously:
-
-- founded <img src="Gif/Black and Beige Minimalist Gorheim Fashion Brand Logo (2).PNG" width="16" height="16" alt="My logo" /> **My project**
-- b
-  
+- a recent MSC AI graduate (with a Bachelors in Computing + Smart technologies)
+- building <a href="https://boundverity.com">boundverity.com</a>!
+- looking for opportunities 
 
 
 <p align="center">

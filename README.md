@@ -7,17 +7,14 @@ I'm currently:
 
 I have previously:
 
-- founded
+- founded <img src="Gif/my-logo.png" width="16" height="16" alt="My logo" /> **My project**
 - b
-- c
-
-
-
-
-
-
+  
 
 
 <p align="center">
-  <img src="assets/1p.gif" width="256" alt="Luffy" />
+  <img src="Gif/onepiece.gif" width="256" alt="Luffy" />
 </p>
+
+
+📫 reach me @ <a href="https://muhammedcolley.com">muhammedcolley.com</a>

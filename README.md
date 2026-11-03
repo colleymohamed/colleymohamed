@@ -7,7 +7,7 @@ I'm currently:
 
 I have previously:
 
-- founded <img src="Gif/my-logo.png" width="16" height="16" alt="My logo" /> **My project**
+- founded <img src="Gif/Black and Beige Minimalist Gorheim Fashion Brand Logo (2).PNG" width="16" height="16" alt="My logo" /> **My project**
 - b
   
 

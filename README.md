@@ -4,7 +4,7 @@ I'm currently:
 
 - a recent MSC AI graduate (with a Bachelors in Computing + Smart technologies)
 - building <a href="https://boundverity.com">boundverity</a>!
-- Solo building <a href="https://github.com/five-petals">FivePetals lab</a>!
+- Solo building <a href="https://github.com/five-petals">ePastPapers</a>!
 - Open to opportunities 
 
 
